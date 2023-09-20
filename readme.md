@@ -1,2 +1,6 @@
+TASK!!!
 
-	printf("%i % %i = %i\n", a, b, remainder:);
+
+PRINTF PROJECT A TEAM WORK BETWEEN ISAAC AND WAHAB
+# printf
+# printf
