@@ -1,6 +1,0 @@
-TASK!!!
-
-
-PRINTF PROJECT A TEAM WORK BETWEEN ISAAC AND WAHAB
-# printf
-# printf
